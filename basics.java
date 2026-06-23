@@ -5,6 +5,7 @@ public class basics {
         String lastName = new String("Singh");
 
         //PRINT STRING
+        
         System.out.println(firstName + " " + lastName);
 
         //LENGTH OF STRING
